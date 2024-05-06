@@ -70,7 +70,7 @@ function time() {
                 soat.innerHTML++
             }
         }
-    }, 1)
+    }, 1000)
 }
 
 
