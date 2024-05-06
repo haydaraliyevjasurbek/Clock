@@ -77,34 +77,6 @@ function time() {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // console.log(s,  m, h)
 function clock() {
     let seconds = new Date().getSeconds()
